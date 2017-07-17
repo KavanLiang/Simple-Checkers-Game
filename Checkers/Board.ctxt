@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ displayTurn()
+comment4.params=
+comment4.target=void\ updateBoard()
+comment5.params=
+comment5.target=void\ pieceInteraction()
+comment6.params=
+comment6.target=void\ mouseClickManager()
+comment7.params=x\ y
+comment7.target=void\ displayPosMoves(int,\ int)
+comment8.params=
+comment8.target=void\ clearPosMoves()
+comment9.params=
+comment9.target=void\ victory()
+numComments=10
